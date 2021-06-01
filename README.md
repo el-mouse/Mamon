@@ -1,2 +1,2 @@
 # Mamon
- Верстка лендинга Mamon - HTML, CSS (grid, flex)
+ Lesson_2. Верстка лендинга Mamon - HTML, CSS (grid, flex)
